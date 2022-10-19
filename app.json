@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/ZaenXP/AellyUB0T",
+    "repository": "https://github.com/AellyOfficial/AellyUB0T",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
