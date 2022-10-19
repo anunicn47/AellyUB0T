@@ -1,13 +1,13 @@
 {
-    "name": "MusicUserbot",
-    "description": "MusicUserBot Untuk Memutar Lagu Dan Video Di Obrolan Suara Telegram.",
+    "name": "AellyUB0T",
+    "description": "AellyUB0T Untuk Memutar Lagu Dan Video Di Obrolan Suara Telegram.",
     "logo": "https://telegra.ph/file/613f681a511feb6d1b186.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/ZaenXP/MusicUserbot",
+    "repository": "https://github.com/ZaenXP/AellyUB0T",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",

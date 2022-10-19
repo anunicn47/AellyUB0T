@@ -11,7 +11,7 @@ async def main():
     print(
         """
     ------------------------
-   | MusicUserbot Actived! |
+   | AellyUB0T Actived! |
     ------------------------
 """
     )

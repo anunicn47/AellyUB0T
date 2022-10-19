@@ -2,7 +2,7 @@ import aiohttp
 from pyrogram import Client, filters
 
 from config import HNDLR, bot as USER
-from MusicUserbot.helpers.merrors import capture_err
+from AellyUB0T.helpers.merrors import capture_err
 
 
 
